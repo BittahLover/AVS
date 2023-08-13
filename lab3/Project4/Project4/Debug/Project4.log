@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\University\second-year\4sem\AVS\lab3\Project4\Project4\Source.cpp(129,9): warning C4101: temp: неиспользованная локальная переменная
+E:\University\second-year\4sem\AVS\lab3\Project4\Project4\Source.cpp(280,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Project4.vcxproj -> E:\University\second-year\4sem\AVS\lab3\Project4\Debug\Project4.exe

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\University\second-year\4sem\AVS\lab3\Project2\Project2\Source.cpp(24,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\University\second-year\4sem\AVS\lab3\Project2\Project2\Source.cpp(26,47): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+E:\University\second-year\4sem\AVS\lab3\Project2\Project2\Source.cpp(43,42): warning C4244: аргумент: преобразование "__int64" в "long double", возможна потеря данных
+E:\University\second-year\4sem\AVS\lab3\Project2\Project2\Source.cpp(55,42): warning C4244: аргумент: преобразование "__int64" в "long double", возможна потеря данных
+  Project2.vcxproj -> E:\University\second-year\4sem\AVS\lab3\Project2\Debug\Project2.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\University\second-year\4sem\AVS\lab6\Project1\Project1\Source.cpp(7,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\University\second-year\4sem\AVS\lab6\Project1\Project1\Source.cpp(23,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Project1.vcxproj -> E:\University\second-year\4sem\AVS\lab6\Project1\Debug\Project1.exe

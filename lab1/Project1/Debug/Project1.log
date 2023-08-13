@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\maxx_\source\repos\Project1\Project1\Source.cpp(29,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\maxx_\source\repos\Project1\Project1\Source.cpp(144,10): warning C4129: S: неизвестная escape-последовательность
+  Project1.vcxproj -> C:\Users\maxx_\source\repos\Project1\Debug\Project1.exe
